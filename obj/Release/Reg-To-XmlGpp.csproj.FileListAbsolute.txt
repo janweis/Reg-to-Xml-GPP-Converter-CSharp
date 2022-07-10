@@ -1,0 +1,11 @@
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\bin\Release\Reg-To-XmlGpp.exe.config
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\bin\Release\Reg-To-XmlGpp.exe
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\bin\Release\Reg-To-XmlGpp.pdb
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\bin\Release\CommandLine.dll
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\bin\Release\CommandLine.xml
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\obj\Release\Reg-To-XmlGpp.csproj.AssemblyReference.cache
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\obj\Release\Reg-To-XmlGpp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\obj\Release\Reg-To-XmlGpp.csproj.CoreCompileInputs.cache
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\obj\Release\Reg-To-XmlGpp.csproj.CopyComplete
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\obj\Release\Reg-To-XmlGpp.exe
+C:\Users\Person\Documents\C#Projekt_temp\Reg-To-XmlGpp\obj\Release\Reg-To-XmlGpp.pdb
